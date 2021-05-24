@@ -1,0 +1,2 @@
+- 👋 Hi, I’m @shepherx
+- You can reach me via https://ianshepherd.dev
