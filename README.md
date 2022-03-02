@@ -10,7 +10,7 @@
 ---
 
 > if you wanna collab and dev something cool in py, go, rust, or js frameworks email shepherx at my [mf-email](ianshepherx@gmail.com) | ianshepherx@gmail.com \
-> --x--x--x--x--x--x--x--x--x--x--x--x--x--x--x--x--x--x--x--x--x--x--x--x--x--x--x--x--x--x--x--x--x--x--x--x--x--x--x--x
+> --x--x--x--x--x--x--x--x--x--x--x--x--x--x--x--x--x--x--x--x--x--x--x--x--x--x--x--x--x--x--x--x--x--x--x--x--x--x--x--x \
 > my number one quote in slack channels: "*why are we writing this in bash????????*" \
 
 `sudo rm -rf "public static void main(String[] args) && open iTerm && ls -lah | grep "fuck-this-language.py" `
