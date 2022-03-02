@@ -10,10 +10,9 @@
 ---
 
 > if you wanna collab and dev something cool in py, go, rust, or js frameworks email shepherx at my [mf-email](ianshepherx@gmail.com) | ianshepherx@gmail.com \
-> --x--x--x--x--x--x--x--x--x--x--x--x--x--x--x--x--x--x--x--x--x--x--x--x--x--x--x--x--x--x--x--x--x--x--x--x--x--x--x--x--x--x--x \
-> fk man/human/woman/being/transcendental fasncinations/ \
+> --x--x--x--x--x--x--x--x--x--x--x--x--x--x--x--x--x--x--x--x--x--x--x--x--x--x--x--x--x--x--x--x--x--x--x--x--x--x--x--x
 > my number one quote in slack channels: "*why are we writing this in bash????????*" \
----
+
 `sudo rm -rf "public static void main(String[] args) && open iTerm && ls -lah | grep "fuck-this-language.py" `
 
 the script @ [herehere](https://github.com/shepherx/gh/blob/main/gh.py) is just funny and wonderful
@@ -21,3 +20,4 @@ the script @ [herehere](https://github.com/shepherx/gh/blob/main/gh.py) is just 
 > i can also write code that will impress rather than destroy your expectations :)
 
 __*meowmix4lyfe*__
+---
