@@ -1,4 +1,4 @@
-### ＞ hi hi hi i’m @shepherx and i do code and engineering support for *money*
+### ＞ hi hi hi i’m @shepherx and i do code and engineering support for *money* jokes but wife and dogs need to eat
 *i can fix a broken api before anyone knows its been down . . . x x x*
 #### You can reach me via https://shepherx.com
 ---
